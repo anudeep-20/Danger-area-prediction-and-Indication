@@ -1,1 +1,3 @@
 # Fall-Area-Prediction
+
+Deaths due to unnoticed falls of heavy weights is an industrial problem where during the lift of heavy objects by cranes there are cases where the hanging weight cuts of and fall on the workers far away who are not at all related. We wanted to Indicate the danger zone in which there is a probable chance of fall of that hanging weight so that one can understand that no one should enter in that zone when a heavy weight is being lifted. The proposed system uses gyro sensor for determining the angle of tilt of heavy weight, Ultrasonic sensor for determining the height at which the object is hanging, servo motors and laser light modules for indicating the danger zone.
